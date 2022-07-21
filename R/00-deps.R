@@ -2,7 +2,7 @@
 
 # CONSTANTS -------------------------------------------------------------
 # CRAN Libraries
-cran.libs <- c("plm")
+cran.libs <- c("plm","pdftools","tidyverse")
 
 # GITHUB Libraries
 github.libs <- c("hadley/dplyr",
